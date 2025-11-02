@@ -1,0 +1,3 @@
+[build]
+  publish = "."        # 告诉 Netlify 从当前目录发布
+  command = ""         # 不需要构建命令（纯静态）
